@@ -1,0 +1,7 @@
+@charset "UTF-8";
+body{
+   background:url(./images/background.jpg)  no-repeat center center;
+   background-size:cover;
+   background-attachment:fixed;
+   background-color:#CCCCCC;
+}

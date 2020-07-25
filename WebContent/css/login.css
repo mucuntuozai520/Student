@@ -1,0 +1,118 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+a{
+	text-decoration: none;
+}
+#a1{
+	color: red;
+}
+#sub{
+	float:left;
+	color: white;
+	background: red;
+	height: 40px;
+	width: 300px;
+	border: none;
+	margin-left:76px;
+	text-align: center;
+}
+body{
+   background:url(../img/bgImg.jpg)  no-repeat center center;
+   background-size:cover;
+   background-attachment:fixed;
+   background-color:#CCCCCC;
+}
+article{
+	width: 450px;
+	height: 350px;
+	background: white;
+	float: right;
+	margin-right:250px ;
+	margin-top:180px ;
+	
+}
+#div1{
+	height: 55px;
+}
+#div1 h2{
+	float: left;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+#a1{
+	margin-top: 10px;
+	float: right;
+	margin-right: 10px;
+	background: url(../img/icon5.jpg) no-repeat;
+	padding-left: 20px;
+	background-position: left;
+}
+#div2{
+	border: solid 1px #666;
+	height:38px ;
+	width: 368px;
+	margin-left: 40px;
+	margin-top: 20px;
+}
+#lab1{
+	float: left;
+	height: 38px;
+	width: 38px;
+	background:url(../img/icon1.jpg) no-repeat ;
+	border-right: solid 1px #666;
+	
+}
+#div2 input{
+	float: left;
+	padding: 10px 160px 10px 0px;
+	border: none;
+	
+}
+#div3{
+	border: solid 1px #666;
+	height:38px ;
+	width: 368px;
+	margin-left: 40px;
+	margin-top: 30px;
+	margin-bottom: 20px;
+}
+#lab2{
+	float: left;
+	height: 38px;
+	width: 38px;
+	background:url(../img/icon2.jpg) no-repeat ;
+	border-right: solid 1px #666;
+	
+}
+#div3 input{
+	float: left;
+	padding: 10px 160px 10px 0px;
+	border: none;
+	
+}
+#div4{
+	height:38px ;
+	width: 368px;
+	margin-left: 138px;
+	margin-bottom: 20px;
+}
+#div4 input{
+	float:left;
+	padding: 10px 10px 10px 0px;
+}
+#div4 a{
+	float:left;
+}
+#div0{
+	text-align:center;
+	margin-top: 40px;
+}
+p{
+	color: #333;
+	font-size: 50px;
+	
+}
+
+
